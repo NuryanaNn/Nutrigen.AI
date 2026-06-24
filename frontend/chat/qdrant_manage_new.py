@@ -206,6 +206,3 @@ def retrieve_knowledge(query, collection_name="knowledge_base", limit=5):
         docs.append(payload.get("text", ""))
 
     return docs
-
-print(qdrant.get_collections())
-print("Collection siap")
