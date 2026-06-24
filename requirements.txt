@@ -3,9 +3,10 @@ google-generativeai
 groq
 langchain
 langchain-groq
+fastembed
+qdrant-client
 python-dotenv
 pandas
 numpy
 requests
-qdrant-client
 pillow
