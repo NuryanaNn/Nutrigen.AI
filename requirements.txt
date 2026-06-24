@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+groq
+python-dotenv
+pandas
+numpy
+requests
+qdrant-client
+pillow
